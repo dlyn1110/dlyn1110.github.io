@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'how I got here'"
-date:       2018-03-29 23:30:46 +0000
+date:       2018-03-29 19:30:47 -0400
 permalink:  how_i_got_here
 ---
 
