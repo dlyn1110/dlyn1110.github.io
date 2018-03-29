@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Welcome to my blog!
 header-img: img/home-bg.png
 email: dlyn1110@gmail.com
 copyright_name: dlyn1110
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Keep Calm and Code!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dlyn1110
